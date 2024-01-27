@@ -235,6 +235,9 @@
 <node COLOR="#111111" CREATED="1706173443008" ID="ID_275399547" MODIFIED="1706173444160" TEXT="PCA"/>
 <node COLOR="#111111" CREATED="1706173469982" ID="ID_197880909" MODIFIED="1706173485974" TEXT="Interaction operation"/>
 </node>
+<node COLOR="#111111" CREATED="1706341627739" ID="ID_933247162" MODIFIED="1706341632566" TEXT="Statistic">
+<node COLOR="#111111" CREATED="1706341632573" ID="ID_390293739" MODIFIED="1706341649349" TEXT="Non-parametric : doesn&apos;t need distribution type assumption"/>
+</node>
 </node>
 </node>
 </node>
@@ -444,10 +447,15 @@
 </node>
 </node>
 </node>
+<node COLOR="#990000" CREATED="1706342708532" ID="ID_108897682" MODIFIED="1706342716396" STYLE="bubble" TEXT="Formulation">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1706342717917" ID="ID_620920171" MODIFIED="1706342749277" STYLE="fork" TEXT="Decide window size"/>
 </node>
-<node COLOR="#00b439" CREATED="1705915633601" ID="ID_1291085539" MODIFIED="1705978743280" TEXT="Data visualization">
+</node>
+<node COLOR="#00b439" CREATED="1705915633601" ID="ID_1291085539" MODIFIED="1706335636769" STYLE="fork" TEXT="Data visualization">
 <edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
+<font NAME="SansSerif" SIZE="16" STRIKETHROUGH="true"/>
+<icon BUILTIN="button_ok"/>
 </node>
 <node COLOR="#00b439" CREATED="1705978007711" ID="ID_1104702383" MODIFIED="1705978018729" TEXT="Intip literatur">
 <edge STYLE="bezier" WIDTH="thin"/>
